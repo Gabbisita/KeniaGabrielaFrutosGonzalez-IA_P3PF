@@ -90,7 +90,7 @@ Se implementó un buffer histórico (deque de tamaño 7). El programa no toma la
 
 ## Créditos y referencias
 
-- Documentación Oficial: [MediaPipeHands]([https://youtube.com](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker?hl=es-419)
+- Documentación Oficial: [MediaPipeHands](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker?hl=es-419)
 
 - Lógica base: [Tutorial "Hand controlled media player"](https://youtube.com) del canal [ProgrammingHut](https://www.youtube.com/@programming_hut)
 

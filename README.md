@@ -59,7 +59,7 @@ pip install opencv-python mediapipe numpy
 
 
 ## Configuracion de archivos
-Para que el script **hand_swap.py** funcione, es obligatorio tener las imágenes en la misma carpeta del proyecto. El programa buscará estos nombres exactos así que asegurate de cambiarlos si es necesario.
+Para que el script **hand_swap.py** funcione, es obligatorio tener las imágenes en la misma carpeta del proyecto. El programa buscará sus nombres exactos así que asegurate de cambiarlos si es necesario.
 
 **Nota:** Si falta alguna de las imágenes, el programa mostrará un error en la consola y se cerrará automáticamente para evitar fallos mayores.
 
